@@ -1,4 +1,2 @@
-iam learning git tool and it is a one of the important DEVOPS tool  
-
 iam learing git tool, it is a one of the important tool in devops
 
