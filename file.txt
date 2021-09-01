@@ -1,1 +1,11 @@
-iam learing git tool, it is a one of the important tool in devops
+DEVOPS TOOl
+-git
+-maven
+-jenkins
+-chef
+-puppet
+-ansible
+-dockers
+-kubernates
+-aws
+
