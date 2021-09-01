@@ -1,11 +1,6 @@
-DEVOPS TOOl
--git
--maven
--jenkins
--chef
--puppet
--ansible
--dockers
--kubernates
+TOP CLOUD PLATFORMS 
 -aws
+-azure
+-gcp
+
 
